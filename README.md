@@ -101,10 +101,6 @@ https://github.com/ITER-SIH/Team-70/assets/121545576/58f929d8-ed19-4467-a20f-adb
  
 <img src="https://github.com/ITER-SIH/Team-70/assets/121545576/d8eacf0c-7385-4a89-b31d-15f43fae9ea0" alt=" " width="400" height ="600" />
 
-<img src="https://github.com/ITER-SIH/Team-70/assets/121545576/79c572fa-aca0-40fa-8f74-e659d0090783" alt=" " width="400" height ="600" />
-
-
-<img src="https://github.com/ITER-SIH/Team-70/assets/121545576/a1dd26f8-ea84-4868-9fdb-62cfcdf81b7d" alt=" " width="400" height ="600" />
 
 <img src="https://github.com/ITER-SIH/Team-70/assets/121545576/7e0f84c0-0fb5-4d02-baf9-b41ddc51cd48" alt=" " width="400" height ="600" />
 
